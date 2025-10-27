@@ -46,8 +46,8 @@ h1.logo {
 
 .samurai {
     position: absolute;
-    bottom: 50px; /* distance depuis le bas du sol */
-    left: 45%;
+    bottom: 400px; /* distance depuis le bas du sol */
+    left: 50%;
     width: 96px;
     height: 96px;
     background-repeat: no-repeat;
